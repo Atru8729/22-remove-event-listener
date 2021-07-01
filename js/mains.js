@@ -4,7 +4,6 @@ const addDOM = document.querySelector('#add');
 const disableDOM = document.querySelector('#disable');
 
 let clickCount = 0;
-
 countDOM.innerText = clickCount;
 
 function pridetiViena() {
